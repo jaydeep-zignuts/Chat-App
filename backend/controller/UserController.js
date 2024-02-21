@@ -1,5 +1,5 @@
 // const User = require("../models/User.js");
-const bcrypt = require("bcrypt");
+// const bcrypt = require("bcrypt");
 const jsonWebToken = require("jsonwebtoken");
 const path = require("path");
 // const file=require("../public/chat.html")
